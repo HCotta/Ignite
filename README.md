@@ -1,2 +1,3 @@
-# Ignite
+# Ignites
+
 Curso da Rocketseat
